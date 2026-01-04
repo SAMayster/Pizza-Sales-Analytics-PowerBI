@@ -54,7 +54,7 @@ Pizza-Sales-Analytics-PowerBI
 │   ├── pizzas.csv
 │   └── pizza_types.csv
 │
-├── dashboard_screenshots
+├── dashboard_screenshot
 │   ├── dashboard view.png
 
 │
