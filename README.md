@@ -45,6 +45,7 @@ The dashboard answers key business questions that help in improving sales strate
 
 ## 📂 Project Structure
 
+```
 Pizza-Sales-Analytics-PowerBI
 │
 ├── dataset
@@ -59,4 +60,4 @@ Pizza-Sales-Analytics-PowerBI
 │   └── top_pizzas_sales.png
 │
 └── pizza_sales_analysis.pbix
-
+```
