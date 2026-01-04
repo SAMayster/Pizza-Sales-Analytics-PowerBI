@@ -55,9 +55,8 @@ Pizza-Sales-Analytics-PowerBI
 │   └── pizza_types.csv
 │
 ├── dashboard_screenshots
-│   ├── dashboard_overview.png
-│   ├── hourly_orders_analysis.png
-│   └── top_pizzas_sales.png
+│   ├── dashboard view.png
+
 │
-└── pizza_sales_analysis.pbix
+└── PizzaSalesAnalysis.pbix
 ```
